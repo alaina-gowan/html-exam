@@ -64,30 +64,37 @@ img {
     font-style: italic;
     color: #5B7671;
 }
+
 table {
-    color:#5B7671;
-    border:1px;
-    border-color:#2D2926;
+    color: #5B7671;
+    border: 1px;
+    border-color: #2D2926;
     text-align: left;
 }
+
 .header {
     background-color: #79BE70;
-    font-size:30px;
+    font-size: 30px;
 }
+
 .odd {
-    background-color:#D7EFE7;
+    background-color: #D7EFE7;
     font-size: 26px;
 }
+
 .even {
-    background-color:#9FDDED;
+    background-color: #9FDDED;
     font-size: 26px;
 }
-a:link{
-    color:#5B7671;
+
+a:link {
+    color: #5B7671;
 }
-a:visited{
-    color:#2D2926;
+
+a:visited {
+    color: #2D2926;
 }
-a:hover{
-    color:#79BE70;
+
+a:hover {
+    color: #79BE70;
 }
